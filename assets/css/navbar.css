@@ -1,0 +1,41 @@
+
+  
+  #mySidenav a:hover {
+    left: 0;
+  }
+  
+  #employee {
+    top: 60px;
+    background-color: #4CAF50;
+  }
+  
+  #designation {
+    top: 120px;
+    background-color: #2196F3;
+  }
+  
+  #task {
+    top: 180px;
+    background-color: #555
+  }
+
+
+  .boxModel{
+    margin-top: 100px;
+    margin-bottom: auto;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #555;
+    padding: 5% 5% 5% 5%;
+    border: 5px;
+    border-color:#24345a;
+    width: auto; 
+    min-height: 400px;
+    height:auto;
+    
+  }
+  tr,td,th{
+    padding: 5px;
+    border-spacing: 10px;
+  }
+  
